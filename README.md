@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![GY's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgy2808&show_icons=true&theme=tokyonight)
 <!--
 **jgy2808/jgy2808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
