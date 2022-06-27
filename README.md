@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=GuYeon's GitHub&fontSize=60&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=GuYeon's%20GitHub&fontSize=60&animation=twinkling)
 
 
 <p align="center">
