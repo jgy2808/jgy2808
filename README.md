@@ -14,10 +14,9 @@
 </p>
 <br/><br/>
 
-<p align="center">
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=jgy2808)](https://solved.ac/jgy2808)
-</p>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jgy2808)](https://solved.ac/jgy2808)
+
 
 <!--
 **jgy2808/jgy2808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
