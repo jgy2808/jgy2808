@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-📒Study
+📒Study<br/>
 <img src="https://img.shields.io/badge/Java-FF9F29?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Framework-810955?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F94C66?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JSP-3B44F6?style=flat-square&logo=jsp&logoColor=white"/>
 
 ![GY's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgy2808&show_icons=true&theme=tokyonight)
 
