@@ -9,13 +9,7 @@
 </p>
 <br/><br/>
 
-<p align="center">
-![GY's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgy2808&show_icons=true&theme=tokyonight)
-</p>
-<br/><br/>
-
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jgy2808)](https://solved.ac/jgy2808)
+![GY's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgy2808&show_icons=true&theme=tokyonight)[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jgy2808)](https://solved.ac/jgy2808)
 
 
 <!--
