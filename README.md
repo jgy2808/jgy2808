@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p>
+
 📒Study<br/>
 <img src="https://img.shields.io/badge/Java-FF9F29?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Framework-810955?style=flat-square&logo=spring&logoColor=white"/>
@@ -11,6 +13,8 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jgy2808)](https://solved.ac/jgy2808)
+
+</p>
 <!--
 **jgy2808/jgy2808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
