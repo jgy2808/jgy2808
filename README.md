@@ -7,13 +7,17 @@
 <img src="https://img.shields.io/badge/JavaScript-F94C66?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JSP-3B44F6?style=flat-square&logo=jsp&logoColor=white"/>
 </p>
-  
+<br/><br/>
+
+<p align="center">
 ![GY's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgy2808&show_icons=true&theme=tokyonight)
+</p>
+<br/><br/>
 
-
+<p align="center">
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jgy2808)](https://solved.ac/jgy2808)
-
+</p>
 
 <!--
 **jgy2808/jgy2808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
