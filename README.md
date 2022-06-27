@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+📒Study
+<img src="https://img.shields.io/badge/Java-FF9F29?style=flat-square&logo=java&logoColor=white"/>
+
 ![GY's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgy2808&show_icons=true&theme=tokyonight)
 
 
