@@ -1,7 +1,7 @@
 ### Hi there 👋
-
+<p align="center">
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=GuYeon's%20GitHub&fontSize=60&animation=twinkling)
-
+</p>
 
 <p align="center">
 📒Study<br/>
