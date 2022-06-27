@@ -9,8 +9,8 @@
 </p>
 <br/><br/>
 
-![GY's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgy2808&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgy2808)](https://github.com/jgy2808/github-readme-stats)[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jgy2808)](https://solved.ac/jgy2808)
+[![GY's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgy2808&show_icons=true&theme=tokyonight)]<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgy2808&layout=compact)](https://github.com/jgy2808/github-readme-stats) [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jgy2808)](https://solved.ac/jgy2808)
 
 
 <!--
